@@ -29,7 +29,6 @@ const GetAllEvents = async (req, res) => {
 };
 
 // Get a single event
-// Get One Student
 const GetEvent = async (req, res) => {
   const { id } = req.params;
   if (!id) {

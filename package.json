@@ -17,6 +17,18 @@
     "express": "^5.1.0",
     "mongoose": "^8.13.2",
     "nodemon": "^3.1.9",
-    "uuid": "^11.1.0"
-  }
+    "uuid": "^11.1.0",
+    "jsonwebtoken": "9.0.2",
+    "bcrypt": "^6.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Honesty-Beaton/EventTicketingSystem.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Honesty-Beaton/EventTicketingSystem/issues"
+  },
+  "homepage": "https://github.com/Honesty-Beaton/EventTicketingSystem#readme"
 }
