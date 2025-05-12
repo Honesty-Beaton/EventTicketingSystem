@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+header
+{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    padding: 1em;
+}
+nav
+{
+    display: flex;
+}
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+    color: #ff5733;
+}
+
+a {
+    text-decoration: none;
+    color: #0078ff;
+    margin: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #ff5733;
+}
